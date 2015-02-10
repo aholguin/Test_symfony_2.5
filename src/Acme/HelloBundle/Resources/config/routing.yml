@@ -1,0 +1,7 @@
+acme_hello_homepage:
+    pattern:  /hello/{name}/{lastName}
+    defaults: { _controller: AcmeHelloBundle:Default:index,color: green  }
+
+acme_form:
+    pattern:  /formulario
+    defaults: { _controller: AcmeHelloBundle:formulario:index}

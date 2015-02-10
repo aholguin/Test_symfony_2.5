@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/andcheer/Sites/symfony/app/config/routing.yml</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Controller/formularioController.php</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Entity/Category.php</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Entity/ProductRepository.php</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Controller/DefaultController.php</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Entity/Product.php</file>
+            <file>file:/Users/andcheer/Sites/symfony/app/config/parameters.yml</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Resources/config/routing.yml</file>
+            <file>file:/Users/andcheer/Sites/symfony/src/Acme/HelloBundle/Entity/CategoryRepository.php</file>
+        </group>
+    </open-files>
+</project-private>
